@@ -1,0 +1,19 @@
+
+---
+name: "Gabriela Ruz"
+output_dir: "."
+navbar:
+  title: "Investigación abierta"
+  left:
+  - text: "Reporte"
+    href: reporte.html
+  right:
+  - icon: fa-envelope fa-lg
+    href: (gabriela.ruz@ug.uchile.cl)
+  - icon: fa-github fa-lg
+    href: https://github.com/gabrielaruzal/IPO_a-osdeescolaridad/
+output:
+  html_document:
+    theme: yeti
+    css: 'styles.css'
+---
